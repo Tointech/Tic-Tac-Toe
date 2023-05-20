@@ -18,4 +18,4 @@
 - modify in App.tsx
 8. Install extension Tailwind CSS IntelliSense to help recognize syntax
 9. Delete App.css
-10. Deploy with Github Pages
+10. Deploy app (docs)[https://vitejs.dev/guide/static-deploy.html]
