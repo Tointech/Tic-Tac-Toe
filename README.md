@@ -1,3 +1,4 @@
+# React App with Vite, Pnpm, Tailwindcss, Typescript
 1. Install node 
 2. Instal pnpm (package management)
 3. Use vite instead of create-react-app
